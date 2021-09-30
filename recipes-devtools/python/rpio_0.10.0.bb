@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2012 Andrei Gherzan <andrei@gherzan.ro>
+# SPDX-License-Identifier: MIT
+
+
 DESCRIPTION = "Advanced GPIO for the Raspberry Pi. Extends RPi.GPIO with PWM, \
 GPIO interrups, TCP socket interrupts, command line tools and more"
 HOMEPAGE = "https://github.com/metachris/RPIO"

@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2012 Andrei Gherzan <andrei@gherzan.ro>
+#
+# SPDX-License-Identifier: MIT
+
 PACKAGECONFIG:remove:rpi = "${@bb.utils.contains('MACHINE_FEATURES', 'vc4graphics', 'fbdev', '', d)}"
 
 EXTRA_OECONF:append:rpi = " \

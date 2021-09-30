@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2012 Andrei Gherzan <andrei@gherzan.ro>
+# SPDX-License-Identifier: MIT
+
+
 DESCRIPTION = "Package that provides access to GPIO and other IO\
 functions on the Broadcom BCM 2835 chip, allowing access to the\
 GPIO pins on the 26 pin IDE plug on the RPi board"

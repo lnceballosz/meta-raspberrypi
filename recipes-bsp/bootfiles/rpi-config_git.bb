@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2012 Andrei Gherzan <andrei@gherzan.ro>
+# SPDX-License-Identifier: MIT
+
+
 DESCRIPTION = "Commented config.txt file for the Raspberry Pi. \
                The Raspberry Pi config.txt file is read by the GPU before \
                the ARM core is initialised. It can be used to set various \
@@ -215,7 +219,7 @@ do_deploy() {
     fi
 
     # DWC2 USB peripheral support
-    if [ "${ENABLE_DWC2_PERIPHERAL}" = "1" ]; then
+    if ([ "${ENABLE_DWC2_PERIPHERAL}" = "1" ] && [ "${ENABLE_DWC2_OTG}" != "1" ]); then
         echo "# Enable USB peripheral mode" >> $CONFIG
         echo "dtoverlay=dwc2,dr_mode=peripheral" >> $CONFIG
     fi
@@ -224,6 +228,12 @@ do_deploy() {
     if [ "${ENABLE_DWC2_HOST}" = "1" ]; then
         echo "# Enable USB host mode" >> $CONFIG
         echo "dtoverlay=dwc2,dr_mode=host" >> $CONFIG
+    fi
+    
+    # DWC2 USB OTG support
+    if ([ "${ENABLE_DWC2_OTG}" = "1" ] && [ "${ENABLE_DWC2_PERIPHERAL}" != "1" ]); then
+        echo "# Enable USB OTG mode" >> $CONFIG
+        echo "dtoverlay=dwc2,dr_mode=otg" >> $CONFIG
     fi
 
     # AT86RF23X support

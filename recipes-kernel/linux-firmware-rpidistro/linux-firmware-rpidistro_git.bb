@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2012 Andrei Gherzan <andrei@gherzan.ro>
+# SPDX-License-Identifier: MIT
+
 SUMMARY = "Linux kernel firmware files from Raspbian distribution"
 DESCRIPTION = "Updated firmware files for RaspberryPi hardware. \
 RPi-Distro obtains these directly from Cypress; they are not submitted \

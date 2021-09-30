@@ -1,4 +1,11 @@
 <!--
+SPDX-FileCopyrightText: 2012 Andrei Gherzan <andrei@gherzan.ro>
+SPDX-License-Identifier: MIT
+-->
+
+
+
+<!--
 Please make sure you've read and understood our contributing guidelines.
 
 For additional information on the contribution guidelines:

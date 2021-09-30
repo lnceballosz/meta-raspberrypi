@@ -1,4 +1,11 @@
+<<<<<<< Updated upstream
 LINUX_VERSION ?= "5.10.63"
+=======
+# SPDX-FileCopyrightText: 2012 Andrei Gherzan <andrei@gherzan.ro>
+# SPDX-License-Identifier: MIT
+
+LINUX_VERSION ?= "5.10.52"
+>>>>>>> Stashed changes
 LINUX_RPI_BRANCH ?= "rpi-5.10.y"
 LINUX_RPI_KMETA_BRANCH ?= "yocto-5.10"
 

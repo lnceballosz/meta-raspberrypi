@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2012 Andrei Gherzan <andrei@gherzan.ro>
+# SPDX-License-Identifier: MIT
+
 LINUX_VERSION ?= "5.4.83"
 LINUX_RPI_BRANCH ?= "rpi-5.4.y"
 LINUX_RPI_KMETA_BRANCH ?= "yocto-5.4"

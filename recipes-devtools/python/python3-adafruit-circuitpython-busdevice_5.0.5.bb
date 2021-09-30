@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2012 Andrei Gherzan <andrei@gherzan.ro>
+# SPDX-License-Identifier: MIT
+
+
 SUMMARY = "CircuitPython bus device classes to manage bus sharing."
 HOMEPAGE = "https://github.com/adafruit/Adafruit_CircuitPython_BusDevice"
 LICENSE = "MIT"

@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# SPDX-FileCopyrightText: 2012 Andrei Gherzan <andrei@gherzan.ro>
+# SPDX-License-Identifier: MIT
+#
 # -*- coding: utf-8 -*-
 #
 # meta-raspberrypi documentation build configuration file, created by

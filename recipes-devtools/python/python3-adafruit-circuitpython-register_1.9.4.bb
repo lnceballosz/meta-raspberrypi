@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2012 Andrei Gherzan <andrei@gherzan.ro>
+# SPDX-License-Identifier: MIT
+
+
 SUMMARY = "CircuitPython data descriptor classes to represent hardware registers on I2C and SPI devices."
 HOMEPAGE = "https://github.com/adafruit/Adafruit_CircuitPython_Register"
 LICENSE = "MIT"

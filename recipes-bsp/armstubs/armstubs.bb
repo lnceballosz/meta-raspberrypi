@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2012 Andrei Gherzan <andrei@gherzan.ro>
+# SPDX-License-Identifier: MIT
+
+
 DESCRIPTION = "Boot strap code that the GPU puts on memory to start running the boot loader"
 LICENSE = "BSD-3-Clause"
 

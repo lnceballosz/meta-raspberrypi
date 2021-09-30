@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2012 Andrei Gherzan <andrei@gherzan.ro>
+SPDX-License-Identifier: MIT
+-->
+
+
 # Optional build configuration
 
 There are a set of ways in which a user can influence different parameters of

@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2012 Andrei Gherzan <andrei@gherzan.ro>
+# SPDX-License-Identifier: MIT
+
+
 SUMMARY = "Platform detection for use by libraries like Adafruit-Blinka."
 HOMEPAGE = "https://github.com/adafruit/Adafruit_Python_PlatformDetect"
 LICENSE = "MIT"

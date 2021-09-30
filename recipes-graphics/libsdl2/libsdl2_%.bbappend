@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2012 Andrei Gherzan <andrei@gherzan.ro>
+# SPDX-License-Identifier: MIT
+
+
 FILESEXTRAPATHS:prepend := "${THISDIR}/${PN}:"
 
 # when using userland graphic KHR/khrplatform.h is provided by userland but virtual/libgl is provided by mesa-gl where
