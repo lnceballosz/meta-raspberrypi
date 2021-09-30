@@ -1,3 +1,10 @@
+<!--
+SPDX-FileCopyrightText: 2012 Andrei Gherzan <andrei@gherzan.ro>
+SPDX-License-Identifier: MIT
+-->
+
+
+
 # meta-raspberrypi
 
 Yocto BSP layer for the Raspberry Pi boards - <http://www.raspberrypi.org/>.
@@ -82,3 +89,7 @@ For further information, you can read more at <https://kas.readthedocs.io/en/1.0
 ## Maintainers
 
 * Andrei Gherzan `<andrei at gherzan.ro>`
+
+## License
+
+This is an open-sourced project licensed under MIT. However, some elements are being licensed under different licenses. For accurate information regarding license and copyrights, please check individual files.
