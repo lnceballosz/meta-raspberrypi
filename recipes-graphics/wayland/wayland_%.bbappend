@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2012 Andrei Gherzan <andrei@gherzan.ro>
+# SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
 # SPDX-License-Identifier: MIT
 
 # until fully tested, prefer `libwayland-egl` provided by `userland` instead of `wayland` when not using vc4graphics

@@ -1,3 +1,5 @@
+# SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+# SPDX-License-Identifier: MIT
 DEFAULTTUNE ?= "arm1176jzfshf"
 
 require conf/machine/include/arm/arch-armv6.inc

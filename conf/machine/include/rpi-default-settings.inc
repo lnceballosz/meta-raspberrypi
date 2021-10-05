@@ -1,3 +1,5 @@
+# SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+# SPDX-License-Identifier: MIT
 # RaspberryPi BSP default settings
 
 IMAGE_CLASSES += "sdcard_image-rpi"

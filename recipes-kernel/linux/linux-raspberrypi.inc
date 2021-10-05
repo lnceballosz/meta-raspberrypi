@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+# SPDX-License-Identifier: MIT
+
 DESCRIPTION = "Linux Kernel for Raspberry Pi"
 SECTION = "kernel"
 LICENSE = "GPLv2"

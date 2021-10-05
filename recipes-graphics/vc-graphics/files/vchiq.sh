@@ -1,5 +1,5 @@
 #!/bin/sh
-# SPDX-FileCopyrightText: 2012 Andrei Gherzan <andrei@gherzan.ro>
+# SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
 # SPDX-License-Identifier: MIT
 # 
 ### BEGIN INIT INFO

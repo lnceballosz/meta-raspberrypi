@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2012 Andrei Gherzan <andrei@gherzan.ro>
+# SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
 # SPDX-License-Identifier: MIT
 
 # if using bcm driver enable dispmanx not when using VC4 driver

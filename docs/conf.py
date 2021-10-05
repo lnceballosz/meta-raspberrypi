@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# SPDX-FileCopyrightText: 2012 Andrei Gherzan <andrei@gherzan.ro>
+# SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
 # SPDX-License-Identifier: MIT
 #
 # -*- coding: utf-8 -*-

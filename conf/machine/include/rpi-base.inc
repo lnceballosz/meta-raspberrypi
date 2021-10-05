@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+# SPDX-License-Identifier: MIT
+
 include conf/machine/include/rpi-default-settings.inc
 include conf/machine/include/rpi-default-versions.inc
 include conf/machine/include/rpi-default-providers.inc

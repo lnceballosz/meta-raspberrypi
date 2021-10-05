@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+# SPDX-License-Identifier: MIT
+
 RPIFW_DATE ?= "20210914"
 SRCREV ?= "d5d14f484cec739901a088a58eed62452b6dadeb"
 RPIFW_SRC_URI ?= "https://github.com/raspberrypi/firmware/archive/${SRCREV}.tar.gz;downloadfilename=raspberrypi-firmware-${SRCREV}.tar.gz"

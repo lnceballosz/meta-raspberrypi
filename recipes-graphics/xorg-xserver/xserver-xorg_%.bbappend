@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2012 Andrei Gherzan <andrei@gherzan.ro>
+# SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
 # SPDX-License-Identifier: MIT
 
 OPENGL_PKGCONFIGS:rpi = "dri glx ${@bb.utils.contains('MACHINE_FEATURES', 'vc4graphics', 'dri3 xshmfence glamor', '', d)}"
