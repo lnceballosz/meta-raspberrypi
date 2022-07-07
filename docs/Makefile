@@ -1,7 +1,7 @@
 # SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
-# SPDX-License-Identifier: MIT
-# Makefile for Sphinx documentation
 #
+# SPDX-License-Identifier: CC-BY-4.0
+
 
 # You can set these variables from the command line.
 SPHINXOPTS    =
