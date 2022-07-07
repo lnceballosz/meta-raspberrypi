@@ -1,6 +1,6 @@
 # SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+#
 # SPDX-License-Identifier: MIT
-
 
 SUMMARY = "CircuitPython data descriptor classes to represent hardware registers on I2C and SPI devices."
 HOMEPAGE = "https://github.com/adafruit/Adafruit_CircuitPython_Register"

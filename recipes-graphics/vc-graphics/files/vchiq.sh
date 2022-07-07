@@ -1,17 +1,8 @@
 #!/bin/sh
+
 # SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+#
 # SPDX-License-Identifier: MIT
-# 
-### BEGIN INIT INFO
-# Provides:          vchiq.sh
-# Required-Start:    $remote_fs rmnologin
-# Required-Stop:
-# Default-Start:     S
-# Default-Stop:
-# Short-Description: Create /dev/vchiq.
-# Description:       Get the major number from /proc/devices and use it
-#                    ti create /dev/vchiq
-### END INIT INFO
 
 rm -f /dev/vchiq
 

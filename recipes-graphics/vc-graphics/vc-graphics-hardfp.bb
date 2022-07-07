@@ -1,6 +1,6 @@
 # SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+#
 # SPDX-License-Identifier: MIT
-
 
 CONFLICTS = "vc-graphics"
 

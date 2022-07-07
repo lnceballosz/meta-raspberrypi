@@ -1,5 +1,3 @@
-# SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
-# SPDX-License-Identifier: MIT
 
 RPITOOLS_DATE ?= "20210705"
 SRCREV ?= "2e59fc67d465510179155973d2b959e50a440e47"

@@ -1,6 +1,6 @@
 # SPDX-FileCopyrightText: 2012  meta-raspberrypi contributors
+#
 # SPDX-License-Identifier: MIT
-
 
 SUMMARY = "U-boot boot scripts for Raspberry Pi"
 LICENSE = "MIT"

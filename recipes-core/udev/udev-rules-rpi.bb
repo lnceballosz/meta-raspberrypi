@@ -1,6 +1,6 @@
 # SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+#
 # SPDX-License-Identifier: MIT
-
 
 DESCRIPTION = "udev rules for Raspberry Pi Boards"
 LICENSE = "MIT"

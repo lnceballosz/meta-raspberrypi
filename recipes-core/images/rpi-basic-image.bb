@@ -1,6 +1,6 @@
 # SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+#
 # SPDX-License-Identifier: MIT
-
 
 # Base this image on core-image-minimal
 include recipes-core/images/core-image-minimal.bb

@@ -1,6 +1,6 @@
 # SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+#
 # SPDX-License-Identifier: MIT
-
 
 DESCRIPTION = "Tool to help debug / hack at the BCM283x GPIO"
 HOMEPAGE = "https://github.com/RPi-Distro/raspi-gpio"

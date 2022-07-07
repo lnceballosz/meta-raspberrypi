@@ -1,6 +1,6 @@
 # SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+#
 # SPDX-License-Identifier: MIT
-
 
 DESCRIPTION = "Package that provides access to GPIO and other IO\
 functions on the Broadcom BCM 2835 chip, allowing access to the\

@@ -1,6 +1,6 @@
 # SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+#
 # SPDX-License-Identifier: MIT
-
 
 DESCRIPTION = "RaspberryPi Test Packagegroup"
 LICENSE = "MIT"

@@ -1,4 +1,5 @@
 # SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+# 
 # SPDX-License-Identifier: MIT
 
 SUMMARY = "Linux kernel Bluetooth firmware files from Raspbian distribution"
