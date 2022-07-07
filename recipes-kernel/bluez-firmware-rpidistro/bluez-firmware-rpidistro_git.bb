@@ -26,7 +26,7 @@ LIC_FILES_CHKSUM = "\
 # so that the license files will be copied from fetched source
 NO_GENERIC_LICENSE[Firmware-cypress-rpidistro] = "LICENCE.cypress-rpidistro"
 
-SRC_URI = "git://github.com/RPi-Distro/bluez-firmware"
+SRC_URI = "git://github.com/RPi-Distro/bluez-firmware;branch=master;protocol=https"
 SRCREV = "e7fd166981ab4bb9a36c2d1500205a078a35714d"
 PV = "1.2-4+rpt8"
 
@@ -42,7 +42,7 @@ do_extract_lic() {
 }
 # Must be before both do_install and do_populate_lic.  Putting it before
 # their common ancestor works; other approaches do not.
-addtask extract_lic after do_unpack before do_patch
+addtask extract_lic after do_unpack before do_patch do_create_spdx
 
 do_compile() {
     :
