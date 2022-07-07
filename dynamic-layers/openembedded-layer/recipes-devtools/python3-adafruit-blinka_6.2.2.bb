@@ -1,6 +1,6 @@
 # SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+#
 # SPDX-License-Identifier: MIT
-
 
 SUMMARY = "CircuitPython APIs for non-CircuitPython versions of Python such as CPython on Linux and MicroPython."
 HOMEPAGE = "https://github.com/adafruit/Adafruit_Blinka"
