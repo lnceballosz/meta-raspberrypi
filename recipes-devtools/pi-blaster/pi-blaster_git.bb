@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+#
+# SPDX-License-Identifier: MIT
+
 DESCRIPTION = "This project enables PWM on the GPIO pins you request of a Raspberry Pi."
 HOMEPAGE = "https://github.com/sarfata/pi-blaster/"
 SECTION = "devel/libs"

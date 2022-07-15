@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+#
+# SPDX-License-Identifier: MIT
+
 DESCRIPTION = "Closed source binary files to help boot all raspberry pi devices."
 LICENSE = "Broadcom-RPi"
 

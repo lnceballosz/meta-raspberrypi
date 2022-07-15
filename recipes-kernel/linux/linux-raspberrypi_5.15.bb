@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+#
+# SPDX-License-Identifier: MIT
+
 LINUX_VERSION ?= "5.15.38"
 LINUX_RPI_BRANCH ?= "rpi-5.15.y"
 LINUX_RPI_KMETA_BRANCH ?= "yocto-5.15"

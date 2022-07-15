@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 # meta-raspberrypi
 
 Yocto BSP layer for the Raspberry Pi boards - <http://www.raspberrypi.org/>.

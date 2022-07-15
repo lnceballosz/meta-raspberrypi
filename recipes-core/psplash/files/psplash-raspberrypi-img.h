@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+//
+// SPDX-License-Identifier: MIT
+
 /* GdkPixbuf RGBA C-Source image dump 1-byte-run-length-encoded */
 
 #define POKY_IMG_ROWSTRIDE (2280)

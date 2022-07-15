@@ -1,4 +1,9 @@
 #!/bin/sh
+
+# SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+#
+# SPDX-License-Identifier: MIT
+
 ### BEGIN INIT INFO
 # Provides:          vchiq.sh
 # Required-Start:    $remote_fs rmnologin
