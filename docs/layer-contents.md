@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 # Layer Contents
 
 ## Supported Machines

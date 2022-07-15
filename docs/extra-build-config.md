@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+
+SPDX-License-Identifier: CC-BY-4.0
+-->
+
 # Optional build configuration
 
 There are a set of ways in which a user can influence different parameters of

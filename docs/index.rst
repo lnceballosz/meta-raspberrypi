@@ -1,3 +1,7 @@
+.. SPDX-FileCopyrightText: 2012 meta-raspberrypi contributors
+..
+.. SPDX-License-Identifier: CC-BY-4.0
+
 .. meta-raspberrypi documentation master file, created by
    sphinx-quickstart on Tue May 23 09:51:24 2017.
    You can adapt this file completely to your liking, but it should at least
