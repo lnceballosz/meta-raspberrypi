@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: meta-raspberrypi
+Upstream-Contact: Andrei Gherzan <andrei at gherzan.com>
+Source: https://github.com/agherzan/meta-raspberrypi
+
+
+Copyright: 2012 meta-raspberrypi contributors
+License: MIT
+Files: recipes-connectivity/bluez5/bluez5/*  recipes-devtools/python/* recipes-graphics/raspidmx/raspidmx/* recipes-graphics/userland/files/* recipes-multimedia/gstreamer/gstreamer1.0-omx* recipes-multimedia/omxplayer/omxplayer/* recipes-connectivity/pi-bluetooth/pi-bluetooth/* recipes-kernel/linux/files/0001-Revert-selftests-bpf-Skip-perf-hw-events-test-if-the.patch recipes-kernel/linux/files/0002-Revert-selftests-bpf-Fix-perf_buffer-test-on-systems.patch recipes-bsp/u-boot/files/0001-rpi-always-set-fdt_addr-with-firmware-provided-FDT-address.patch dynamic-layers/meta-python/recipes-connectivity/lirc/lirc/lirc-gpio-ir-0.10.patch recipes-devtools/pi-blaster/files/remove-initscript-lsb-dependency.patch
+
