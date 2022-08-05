@@ -19,6 +19,7 @@ Contents:
    layer-contents
    extra-build-config
    extra-apps
+   ipcompliance
    contributing
 
 Indices and tables
